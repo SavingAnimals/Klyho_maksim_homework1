@@ -1,0 +1,46 @@
+body {
+    background-image: url(img/texture.jpg);
+    font-family: 'Roboto Slab';
+}
+
+.content {
+    width: auto;
+    padding: 35px;
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(137, 137, 137, 0.1);
+    border-radius: 10px;
+    height: auto;
+}
+
+.Photo {
+    float: left;
+    margin-right: 25px;
+}
+
+.Photo img {
+    margin-top: 30px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+li {
+    color: #888888;
+    list-style-type: none;
+    padding-left: 1.5em;
+    background-image: url(img/Galochka.png);
+    background-size: 1em;
+    background-repeat: no-repeat;
+}
+
+h1 {text-align: center;}
+
+div .line {
+    border-bottom: 1px solid #EDEDED;
+    margin: 5px 30px;
+}
+
+a {text-decoration: none;
+color: red;}
